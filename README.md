@@ -1,3 +1,7 @@
+
+!<img width="363" height="139" alt="pbots" src="https://github.com/user-attachments/assets/d85e09d1-e3eb-4af6-988b-59c0d537489a" />
+
+
 # Career-ChatBot
 A chatbot that was created to give computer science majors a short quiz to see what kind of career would be suited for them.
 
