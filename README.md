@@ -1,5 +1,5 @@
 # Career-ChatBot
-A chatbot that was created to give computer science majors a short quiz to see what kind of carreer would be suited for them.
+A chatbot that was created to give computer science majors a short quiz to see what kind of career would be suited for them.
 
 
 ## Purpose of this project
