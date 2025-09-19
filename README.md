@@ -23,7 +23,3 @@ The purpose of creating this chatbot is help student traffic between computer sc
 ## How to contribute 
 1. Submit pull requets with comprehensive description of changes.
 2. Email me with any critical feedback to improve my project at emelynyrivas@gmail.com
-
-
-## Donations
-This project was made entirelly by me, @emelynyrivas. If you want to support future projects like this, or just want to say thanks, please send any donations via CashApp to $PupusaRevuelta.
